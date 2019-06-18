@@ -2,7 +2,7 @@
 
 '''
  ex034 -> Escreva um programa que pergunte qual o salário de um funcionário.
-          Para salários superioes a R$ 1.250,00 calcule um aumento de 10%.
+          Para salários superiores a R$ 1.250,00 calcule um aumento de 10%.
           Para os inferiores ou iguais, o aumento é de 15%.
 '''
 
