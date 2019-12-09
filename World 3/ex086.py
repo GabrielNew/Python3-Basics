@@ -7,6 +7,8 @@
 
 matriz = [ [0,0,0], [0,0,0], [0,0,0] ]
 
+print('TRABALHANDO COM BRANCHES')
+
 for i in range(0,3):
   for j in range(0,3):
     matriz[i][j] = int(input(f'Digite um número para a posição [{i} {j}] = '))
